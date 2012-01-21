@@ -1,0 +1,1 @@
+Sudoku solver written in Java that uses recursive backtracking to solve a Sudoku puzzle. The Sudoku class creates a Sudoku board and can also verify if a Sudoku puzzle is solved or not.
